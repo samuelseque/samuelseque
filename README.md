@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Samuel Seque
 
-**`Engenheiro Informático | Desenvolvedor Web FullStack`**
+**`Engenharia Informática | Desenvolvedor Web FullStack`**
 
 Me chamo Samuel Seque, sou apaixonado por tecnologia e programação. Tenho experiência em desenvolvimento web, automação de sistemas, manutenção de servidores Linux, integração com APIs e trading automatizado. Trabalho com projetos que vão desde websites e aplicações web até bots para MetaTrader e cTrader, sempre com foco em eficiência, escalabilidade e segurança. "[Samuel Seque](https://www.instagram.com/samuelpongeseque007/)".
 
