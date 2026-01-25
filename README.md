@@ -60,13 +60,13 @@ Me chamo Samuel Seque, sou apaixonado por tecnologia e programação. Tenho expe
 >
   <img
     src="https://github-readme-stats.vercel.app/api?username=samuelseque&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&custom_title=Estatísticas%20do%20GitHub&locale=pt-br"
-    style="width: 48%; max-width: 500px;"
+    style="width: 48%; max-width: 100px;"
     alt="Estatísticas do GitHub de Samuel Seque"
   />
 
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelseque&layout=compact&theme=tokyonight&langs_count=10&hide_border=true&custom_title=Tecnologias%20Mais%20Usadas"
-    style="width: 48%; max-width: 500px;"
+    style="width: 48%; max-width: 100px;"
     alt="Tecnologias mais usadas por Samuel Seque"
   />
 </div>
