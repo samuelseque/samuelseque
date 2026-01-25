@@ -47,7 +47,7 @@ Me chamo Samuel Seque, sou apaixonado por tecnologia e programação. Tenho expe
 
 ### 📊 Estatísticas
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
+<table align="center" style="border:0px;">
   <tr>
     <td align="center">
       <img
