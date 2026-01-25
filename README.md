@@ -47,7 +47,7 @@ Me chamo Samuel Seque, sou apaixonado por tecnologia e programação. Tenho expe
 
 ### 📊 Estatísticas
 
-<p>
+<div align="center"">
   <img
     height="200"
     src="https://github-readme-stats.vercel.app/api?username=samuelseque&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&custom_title=Estatísticas%20do%20GitHub&locale=pt-br"
@@ -59,5 +59,5 @@ Me chamo Samuel Seque, sou apaixonado por tecnologia e programação. Tenho expe
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelseque&layout=compact&theme=tokyonight&langs_count=10&hide_border=true&custom_title=Tecnologias%20Mais%20Usadas"
     alt="Linguagens mais usadas por Samuel Seque"
   />
-</p>
+</div>
 
