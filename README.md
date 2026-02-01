@@ -44,7 +44,7 @@ Me chamo Samuel Seque, sou apaixonado por tecnologia e programação. Tenho expe
 
 <br/>
 <br/>
-
+<!--
 ### 📊 Estatísticas
 <div>
   <img
@@ -60,7 +60,7 @@ Me chamo Samuel Seque, sou apaixonado por tecnologia e programação. Tenho expe
   />
 </div>
 
-
+--!>
 
 
 
