@@ -2,7 +2,7 @@
 
 **`Engenharia Informática | Desenvolvedor Web FullStack`**
 
-Me chamo Samuel Seque, sou apaixonado por tecnologia e programação. Tenho experiência em desenvolvimento web, automação de sistemas, manutenção de servidores/equipamentos TICs, sempre com foco em eficiência, escalabilidade e segurança.
+Sou Informático e desenvolvedor de sistemas WEB, atuo na criação de plataformas e ferramentas voltadas para investimentos, automação de operações e análise de mercado e outros setores. Integro tecnologia e estratégia para entregar soluções eficientes no ambiente financeiro, académicos e administrativos na internet.
 
 <p align="left">
     <a href="https://github.com/samuelseque?tab=repositories&sort=stargazers">
