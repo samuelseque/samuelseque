@@ -35,6 +35,7 @@ Sou Informático e desenvolvedor de sistemas WEB, atuo na criação de plataform
 <img align="left" alt="MySQL" title="WySQL" width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />  
 <img width="40" height="40" src="https://img.icons8.com/color/40/power-bi-2021.png" alt="power-bi-2021"/>
 <img width="40" height="40" src="https://img.icons8.com/color/40/ms-excel.png" alt="ms-excel"/>
+<img width="40" height="40" src="https://img.icons8.com/fluency/40/claude.png" alt="claude"/>
 <br/>
 <br/>
 <!--
