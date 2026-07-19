@@ -33,7 +33,7 @@ Sou Informático e desenvolvedor de sistemas WEB, atuo na criação de plataform
 <img align="left" alt="Bootstrap" title="Bootstrap" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 <img align="left" alt="SQLite" title="SQLite" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-plain.svg" />  
 <img align="left" alt="MySQL" title="WySQL" width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />  
-<img width="48" height="48" src="https://img.icons8.com/deco/48/power-bi.png" alt="power-bi"/>
+<img width="30" height="30" src="https://img.icons8.com/deco/48/power-bi.png" alt="power-bi"/>
 <br/>
 <br/>
 <!--
