@@ -33,9 +33,9 @@ Sou Informático e desenvolvedor de sistemas WEB, atuo na criação de plataform
 <img align="left" alt="Bootstrap" title="Bootstrap" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 <img align="left" alt="SQLite" title="SQLite" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-plain.svg" />  
 <img align="left" alt="MySQL" title="WySQL" width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />  
-<img align="left" width="35" height="35" src="https://img.icons8.com/color/35/power-bi-2021.png" alt="power-bi-2021" />
-<img align="left" width="35" height="35" src="https://img.icons8.com/color/35/ms-excel.png" alt="ms-excel" />
-<img align="left" width="35" height="35" src="https://img.icons8.com/fluency/35/claude.png" alt="claude" />
+<img align="left" width="35" src="https://img.icons8.com/color/35/power-bi-2021.png" alt="power-bi-2021" />
+<img align="left" width="35" src="https://img.icons8.com/color/35/ms-excel.png" alt="ms-excel" />
+<img align="left" width="35" src="https://img.icons8.com/fluency/35/claude.png" alt="claude" />
 <br/>
 <br/>
 <!--
